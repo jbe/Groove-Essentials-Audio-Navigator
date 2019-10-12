@@ -1,0 +1,143 @@
+!!! 5
+%html{ :lang => "en"}
+  %head
+    %title= "Groove Essentials Table"
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    -# %meta{ :content => "", :name => "description" }
+    -# %meta{ :content => "", :name => "author" }
+    <link href="https://fonts.googleapis.com/css?family=Yrsa:700&display=swap" rel="stylesheet" ></link>
+
+    :javascript
+      function playClip(path) {
+        const player = document.querySelector(".player");
+        player.innerHTML = "<audio controls autoPlay src='" + path + "'/>";
+      }
+
+    :scss 
+      html {
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+          "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+          sans-serif;
+        font-size: 17px;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+
+      p {
+        line-height: 1.5;
+      }
+
+      code {
+        font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+          monospace;
+      }
+
+
+      main {
+        margin: 0 1em 5em;
+        font-weight: 600;
+
+        h1,
+        h2,
+        h3 {
+          font: 600 30px Yrsa, serif;
+        }
+
+        h2 {
+          font-size: 24px;
+        }
+
+        table {
+          width: 100%;
+
+          col.number {
+          }
+          col.name {
+            width: 12em;
+          }
+          col.charts {
+            width: 12em;
+          }
+          col.guides {
+          }
+
+          td {
+            padding: 1em;
+          }
+        }
+
+        button {
+          font-size: 17px;
+          font-weight: 600;
+          border: 1px solid transparent;
+          margin: 0.3em 0.3em;
+          padding: 0.3em 0.6em;
+          border-radius: 3px;
+          cursor: pointer;
+        }
+
+        .charts button {
+          background-color: bisque;
+
+          &:hover {
+            background-color: darkorange;
+          }
+        }
+
+        .guides button {
+          background-color: beige;
+          &:hover {
+            background-color: darkolivegreen;
+          }
+        }
+
+        .player {
+          position: fixed;
+          z-index: 10;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          background-color: white;
+
+          audio {
+            width: 100%;
+          }
+        }
+      }
+  %body
+    %main
+      %section.player
+        %audio{controls: true, autoPlay: true}
+
+      %article
+        - data.each do |name, book|
+          %h1=name
+
+          %table
+            %colgroup
+              %col.number
+              %col.name
+              %col.charts
+              %col.guides
+
+            %tbody
+              - book[:grooves].each do |key, groove|
+                %tr
+                  %th= groove["number"]
+                  %td= groove["name"]
+                  %td.charts
+                    - (groove["charts"] || []).each do |name, path|
+                      %button{onClick: "playClip('#{path}'); return false;"}= name
+                  %td.guides
+                    - (groove["grooves"] || []).each do |name, variation|
+                      %button{onClick: "playClip('#{variation["path"]}'); return false;"}
+                        = variation["variation"]
+                        = variation["speed"]
