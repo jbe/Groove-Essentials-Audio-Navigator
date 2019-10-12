@@ -129,7 +129,7 @@
               %col.guides
 
             %tbody
-              - book[:grooves].each do |key, groove|
+              - book[:grooves].sort.each do |key, groove|
                 %tr
                   %th= groove["number"]
                   %td= groove["name"]
