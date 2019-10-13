@@ -84,7 +84,7 @@
           cursor: pointer;
         }
 
-        .charts button {
+        .charts button, .extras button {
           background-color: bisque;
 
           &:hover {
@@ -137,7 +137,13 @@
                     - (groove["charts"] || []).sort.each do |name, path|
                       %button{onClick: "playClip('#{path}'); return false;"}= name.downcase
                   %td.guides
-                    - (groove["grooves"].sort_by{|name, variation| variation["speed"] + variation["variation"]} || []).each do |name, variation|
+                    - (groove["grooves"].sort_by{|name, variation| variation["speed"] + if variation["variation"] == "main" then "#" else variation["variation"] end} || []).each do |name, variation|
                       %button{onClick: "playClip('#{variation["path"]}'); return false;"}
                         = variation["speed"].downcase
                         = variation["variation"].downcase
+              %tr.extras
+                %th Extras
+                %td{colspan: 3}
+                  - book[:extras].each do |extra|
+                    %button{onClick: "playClip('#{URI.escape(extra["path"])}'); return false;"}
+                      = extra["name"]

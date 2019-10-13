@@ -65,7 +65,7 @@ def parse_ge1
     _, number, speed, variation = basename.match(/^groove(\d+)(SLOW|MEDIUM|FAST|)_(\w+)/).to_a
 
     number = number.to_i
-    speed = if speed && speed.length > 0 then speed.downcase else "normal" end
+    speed = if speed && speed.length > 0 then speed.downcase else "medium" end
 
     grooves[number] ||= {
       "number" => number
@@ -88,12 +88,12 @@ def parse_ge1
     _, number, speed = interesting.match(/^(\d+)-_?([\w-]+)/).to_a
 
     number = number && number.to_i
-    speed = if speed && speed.length > 0 then speed.downcase else "normal" end
+    speed = if speed && speed.length > 0 then speed.downcase else "medium" end
     name = nil
 
-    if !["slow", "fast", "normal"].include?(speed)
+    if !["slow", "fast", "medium"].include?(speed)
       name = speed
-      speed = "normal"
+      speed = "medium"
     end
 
     if !name && NAMES[number]
@@ -134,7 +134,7 @@ def parse_ge2
     _, number, speed, variation = basename.match(/^groove(\d+)(SLOW|FAST|)_(\w+)/).to_a
 
     number = number.to_i
-    speed = if speed && speed.length > 0 then speed.downcase else "normal" end
+    speed = if speed && speed.length > 0 then speed.downcase else "medium" end
 
     grooves[number] ||= {
       "number" => number
@@ -183,7 +183,7 @@ def parse_ge2
         grooves[number]["name"] = name
       end
       grooves[number]["charts"] ||= {}
-      grooves[number]["charts"][variation || "normal"] = path
+      grooves[number]["charts"][variation || "medium"] = path
     end
   end
 

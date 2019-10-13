@@ -1012,28 +1012,28 @@
       "27": {
         "number": 27,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 27,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove27_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 27,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove27_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 27,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove27_main.mp3"
           }
         },
         "name": "disco",
         "charts": {
-          "normal": "./Groove Essentials 1 Audio/chart/ge1-ea_27-DISCO.mp3"
+          "medium": "./Groove Essentials 1 Audio/chart/ge1-ea_27-DISCO.mp3"
         }
       },
       "28": {
@@ -1223,82 +1223,82 @@
       "31": {
         "number": 31,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 31,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove31_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 31,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove31_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 31,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove31_main.mp3"
           }
         },
         "name": "calypso",
         "charts": {
-          "normal": "./Groove Essentials 1 Audio/chart/ge1-eh_31-Calypso.mp3"
+          "medium": "./Groove Essentials 1 Audio/chart/ge1-eh_31-Calypso.mp3"
         }
       },
       "32": {
         "number": 32,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 32,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove32_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 32,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove32_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 32,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove32_main.mp3"
           }
         },
         "name": "soca",
         "charts": {
-          "normal": "./Groove Essentials 1 Audio/chart/ge1-ei_32-Soca.mp3"
+          "medium": "./Groove Essentials 1 Audio/chart/ge1-ei_32-Soca.mp3"
         }
       },
       "33": {
         "number": 33,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 33,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove33_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 33,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove33_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 33,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove33_main.mp3"
           }
         },
         "name": "bossa_nova",
         "charts": {
-          "normal": "./Groove Essentials 1 Audio/chart/ge1-ej_33-Bossa_Nova.mp3"
+          "medium": "./Groove Essentials 1 Audio/chart/ge1-ej_33-Bossa_Nova.mp3"
         }
       },
       "34": {
@@ -1343,34 +1343,34 @@
         },
         "name": "medium_samba",
         "charts": {
-          "normal": "./Groove Essentials 1 Audio/chart/ge1-el_34-Medium_Samba.mp3"
+          "medium": "./Groove Essentials 1 Audio/chart/ge1-el_34-Medium_Samba.mp3"
         }
       },
       "35": {
         "number": 35,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 35,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove35_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 35,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove35_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 35,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove35_main.mp3"
           }
         },
         "name": "fast_samba",
         "charts": {
-          "normal": "./Groove Essentials 1 Audio/chart/ge1-em_35-FAST_Samba.mp3"
+          "medium": "./Groove Essentials 1 Audio/chart/ge1-em_35-FAST_Samba.mp3"
         }
       },
       "36": {
@@ -1468,55 +1468,55 @@
       "38": {
         "number": 38,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 38,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove38_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 38,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove38_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 38,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove38_main.mp3"
           }
         },
         "name": "merengue",
         "charts": {
-          "normal": "./Groove Essentials 1 Audio/chart/ge1-fa_38-Merengue.mp3"
+          "medium": "./Groove Essentials 1 Audio/chart/ge1-fa_38-Merengue.mp3"
         }
       },
       "39": {
         "number": 39,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 39,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove39_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 39,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove39_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 39,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove39_main.mp3"
           }
         },
         "name": "cha-cha-cha",
         "charts": {
-          "normal": "./Groove Essentials 1 Audio/chart/ge1-fb_39-Cha-Cha-Cha.mp3"
+          "medium": "./Groove Essentials 1 Audio/chart/ge1-fb_39-Cha-Cha-Cha.mp3"
         }
       },
       "3": {
@@ -1568,28 +1568,28 @@
       "40": {
         "number": 40,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 40,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove40_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 40,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove40_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 40,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove40_main.mp3"
           }
         },
         "name": "bolero",
         "charts": {
-          "normal": "./Groove Essentials 1 Audio/chart/ge1-fc_40-Bolero.mp3"
+          "medium": "./Groove Essentials 1 Audio/chart/ge1-fc_40-Bolero.mp3"
         }
       },
       "41": {
@@ -1730,109 +1730,109 @@
       "44": {
         "number": 44,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 44,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove44_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 44,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove44_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 44,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove44_main.mp3"
           }
         },
         "name": "mozambique",
         "charts": {
-          "normal": "./Groove Essentials 1 Audio/chart/ge1-fj_44-Mozambique.mp3"
+          "medium": "./Groove Essentials 1 Audio/chart/ge1-fj_44-Mozambique.mp3"
         }
       },
       "45": {
         "number": 45,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 45,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove45_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 45,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove45_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 45,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove45_main.mp3"
           }
         },
         "name": "salsa",
         "charts": {
-          "normal": "./Groove Essentials 1 Audio/chart/ge1-fk_45-Salsa.mp3"
+          "medium": "./Groove Essentials 1 Audio/chart/ge1-fk_45-Salsa.mp3"
         }
       },
       "46": {
         "number": 46,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 46,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove46_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 46,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove46_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 46,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove46_main.mp3"
           }
         },
         "name": "tango",
         "charts": {
-          "normal": "./Groove Essentials 1 Audio/chart/ge1-fl_46-Tango.mp3"
+          "medium": "./Groove Essentials 1 Audio/chart/ge1-fl_46-Tango.mp3"
         }
       },
       "47": {
         "number": 47,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 47,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove47_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 47,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove47_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 47,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 1 Audio/groove/groove47_main.mp3"
           }
         },
         "name": "beguine",
         "charts": {
-          "normal": "./Groove Essentials 1 Audio/chart/ge1-fm_47-Beguine.mp3"
+          "medium": "./Groove Essentials 1 Audio/chart/ge1-fm_47-Beguine.mp3"
         }
       },
       "4": {
@@ -2144,28 +2144,28 @@
       "100": {
         "number": 100,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 100,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove100_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 100,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove100_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 100,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove100_main.mp3"
           }
         },
         "name": "advanced 9",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/nj_100_advanced_9.mp3",
+          "medium": "./Groove Essentials 2 Audio/chart/nj_100_advanced_9.mp3",
           "slowly with counting": "./Groove Essentials 2 Audio/chart/nj_100_slowly_with_counting.mp3"
         }
       },
@@ -2217,55 +2217,55 @@
       "49": {
         "number": 49,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 49,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove49_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 49,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove49_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 49,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove49_main.mp3"
           }
         },
         "name": "slow rock ballad",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/ic_49_slow_rock_ballad.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/ic_49_slow_rock_ballad.mp3"
         }
       },
       "50": {
         "number": 50,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 50,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove50_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 50,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove50_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 50,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove50_main.mp3"
           }
         },
         "name": "groove subtraction",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/id_50_groove_subtraction.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/id_50_groove_subtraction.mp3"
         }
       },
       "51": {
@@ -2451,82 +2451,82 @@
       "55": {
         "number": 55,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 55,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove55_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 55,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove55_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 55,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove55_main.mp3"
           }
         },
         "name": "B.B. on 3",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/im_55_B.B._on_3.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/im_55_B.B._on_3.mp3"
         }
       },
       "56": {
         "number": 56,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 56,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove56_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 56,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove56_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 56,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove56_main.mp3"
           }
         },
         "name": "B.B. on 1",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/in_56_B.B._on_1.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/in_56_B.B._on_1.mp3"
         }
       },
       "57": {
         "number": 57,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 57,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove57_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 57,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove57_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 57,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove57_main.mp3"
           }
         },
         "name": "R.W. shuffled",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/io_57_R.W._shuffled.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/io_57_R.W._shuffled.mp3"
         }
       },
       "58": {
@@ -2667,28 +2667,28 @@
       "61": {
         "number": 61,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 61,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove61_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 61,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove61_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 61,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove61_main.mp3"
           }
         },
         "name": "fast rock shuffle",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/iv_61_fast_rock_shuffle.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/iv_61_fast_rock_shuffle.mp3"
         }
       },
       "62": {
@@ -2830,28 +2830,28 @@
       "65": {
         "number": 65,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 65,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove65_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 65,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove65_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 65,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove65_main.mp3"
           }
         },
         "name": "anticipated funk",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/jg_65_anticipated_funk.mp3",
+          "medium": "./Groove Essentials 2 Audio/chart/jg_65_anticipated_funk.mp3",
           "slowly with counting": "./Groove Essentials 2 Audio/chart/jh_65_slowly_with_counting.mp3"
         }
       },
@@ -2903,55 +2903,55 @@
       "67": {
         "number": 67,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 67,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove67_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 67,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove67_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 67,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove67_main.mp3"
           }
         },
         "name": "busy hands funk",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/jj_67_busy_hands_funk.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/jj_67_busy_hands_funk.mp3"
         }
       },
       "68": {
         "number": 68,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 68,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove68_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 68,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove68_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 68,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove68_main.mp3"
           }
         },
         "name": "gospel 68",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/ka_68_gospel_68.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/ka_68_gospel_68.mp3"
         }
       },
       "69": {
@@ -3003,82 +3003,82 @@
       "70": {
         "number": 70,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 70,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove70_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 70,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove70_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 70,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove70_main.mp3"
           }
         },
         "name": "texas shuffle",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/kd_70_texas_shuffle.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/kd_70_texas_shuffle.mp3"
         }
       },
       "71": {
         "number": 71,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 71,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove71_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 71,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove71_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 71,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove71_main.mp3"
           }
         },
         "name": "tight swing rb",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/ke_71_tight_swing_rb.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/ke_71_tight_swing_rb.mp3"
         }
       },
       "72": {
         "number": 72,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 72,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove72_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 72,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove72_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 72,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove72_main.mp3"
           }
         },
         "name": "busy hat over half-t",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/kf_72_busy_hat_over_half-t.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/kf_72_busy_hat_over_half-t.mp3"
         }
       },
       "73": {
@@ -3129,52 +3129,52 @@
       "74": {
         "number": 74,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 74,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove74_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 74,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove74_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 74,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove74_main.mp3"
           }
         },
         "name": "backbeat-less",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/ki_74_backbeat-less.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/ki_74_backbeat-less.mp3"
         }
       },
       "75": {
         "number": 75,
         "grooves": {
-          "main normal": {
+          "main medium": {
             "number": 75,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove75_main.mp3"
           }
         },
         "name": "jazz ballad",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/la_75_jazz_ballad.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/la_75_jazz_ballad.mp3"
         }
       },
       "76": {
         "number": 76,
         "grooves": {
-          "main normal": {
+          "main medium": {
             "number": 76,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove76_main.mp3"
           }
         },
@@ -3185,10 +3185,10 @@
       "77": {
         "number": 77,
         "grooves": {
-          "main normal": {
+          "main medium": {
             "number": 77,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove77_main.mp3"
           }
         },
@@ -3199,55 +3199,55 @@
       "78": {
         "number": 78,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 78,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove78_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 78,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove78_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 78,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove78_main.mp3"
           }
         },
         "name": "jazz mambo",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/ld_78_jazz_mambo.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/ld_78_jazz_mambo.mp3"
         }
       },
       "79": {
         "number": 79,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 79,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove79_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 79,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove79_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 79,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove79_main.mp3"
           }
         },
         "name": "very fast swing",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/le_79_very_fast_swing.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/le_79_very_fast_swing.mp3"
         }
       },
       "80": {
@@ -3389,110 +3389,110 @@
       "83": {
         "number": 83,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 83,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove83_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 83,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove83_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 83,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove83_main.mp3"
           }
         },
         "name": "funk samba",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/mg_83_funk_samba.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/mg_83_funk_samba.mp3"
         }
       },
       "84": {
         "number": 84,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 84,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove84_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 84,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove84_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 84,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove84_main.mp3"
           }
         },
         "name": "half-time 68",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/mh_84_half-time_68.mp3",
+          "medium": "./Groove Essentials 2 Audio/chart/mh_84_half-time_68.mp3",
           "slowly with counting": "./Groove Essentials 2 Audio/chart/mh_84_slowly_with_counting.mp3"
         }
       },
       "85": {
         "number": 85,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 85,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove85_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 85,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove85_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 85,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove85_main.mp3"
           }
         },
         "name": "bo diddley",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/mi_85_bo_diddley.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/mi_85_bo_diddley.mp3"
         }
       },
       "86": {
         "number": 86,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 86,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove86_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 86,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove86_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 86,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove86_main.mp3"
           }
         },
         "name": "train beat",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/mj_86_train_beat.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/mj_86_train_beat.mp3"
         }
       },
       "87": {
@@ -3588,281 +3588,281 @@
       "89": {
         "number": 89,
         "grooves": {
-          "main normal": {
+          "main medium": {
             "number": 89,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove89_main.mp3"
           }
         },
         "name": "rideless-linear",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/mo_89_rideless-linear.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/mo_89_rideless-linear.mp3"
         }
       },
       "90": {
         "number": 90,
         "grooves": {
-          "main normal": {
+          "main medium": {
             "number": 90,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove90_main.mp3"
           }
         },
         "name": "military cadence",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/mp_90_military_cadence.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/mp_90_military_cadence.mp3"
         }
       },
       "91": {
         "number": 91,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 91,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove91_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 91,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove91_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 91,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove91_main.mp3"
           }
         },
         "name": "funk in 3",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/na_91_funk_in_3.mp3"
+          "medium": "./Groove Essentials 2 Audio/chart/na_91_funk_in_3.mp3"
         }
       },
       "92": {
         "number": 92,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 92,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove92_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 92,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove92_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 92,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove92_main.mp3"
           }
         },
         "name": "basic 5",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/nb_92_basic_5.mp3",
+          "medium": "./Groove Essentials 2 Audio/chart/nb_92_basic_5.mp3",
           "song with counting": "./Groove Essentials 2 Audio/chart/nb_92_song_with_counting.mp3"
         }
       },
       "93": {
         "number": 93,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 93,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove93_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 93,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove93_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 93,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove93_main.mp3"
           }
         },
         "name": "intermediate 5",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/nc_93_intermediate_5.mp3",
+          "medium": "./Groove Essentials 2 Audio/chart/nc_93_intermediate_5.mp3",
           "slowly with counting": "./Groove Essentials 2 Audio/chart/nc_93_slowly_with_counting.mp3"
         }
       },
       "94": {
         "number": 94,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 94,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove94_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 94,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove94_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 94,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove94_main.mp3"
           }
         },
         "name": "advanced 5",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/nd_94_advanced_5.mp3",
+          "medium": "./Groove Essentials 2 Audio/chart/nd_94_advanced_5.mp3",
           "slowly with counting": "./Groove Essentials 2 Audio/chart/nd_94_slowly_with_counting.mp3"
         }
       },
       "95": {
         "number": 95,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 95,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove95_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 95,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove95_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 95,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove95_main.mp3"
           }
         },
         "name": "basic 7",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/ne_95_basic_7.mp3",
+          "medium": "./Groove Essentials 2 Audio/chart/ne_95_basic_7.mp3",
           "song with counting": "./Groove Essentials 2 Audio/chart/ne_95_song_with_counting.mp3"
         }
       },
       "96": {
         "number": 96,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 96,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove96_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 96,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove96_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 96,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove96_main.mp3"
           }
         },
         "name": "intermediate 7",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/nf_96_intermediate_7.mp3",
+          "medium": "./Groove Essentials 2 Audio/chart/nf_96_intermediate_7.mp3",
           "slowly with counting": "./Groove Essentials 2 Audio/chart/nf_96_slowly_with_counting.mp3"
         }
       },
       "97": {
         "number": 97,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 97,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove97_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 97,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove97_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 97,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove97_main.mp3"
           }
         },
         "name": "advanced 7",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/ng_97_advanced_7.mp3",
+          "medium": "./Groove Essentials 2 Audio/chart/ng_97_advanced_7.mp3",
           "slowly with counting": "./Groove Essentials 2 Audio/chart/ng_97_slowly_with_counting.mp3"
         }
       },
       "98": {
         "number": 98,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 98,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove98_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 98,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove98_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 98,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove98_main.mp3"
           }
         },
         "name": "basic 9",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/nh_98_basic_9.mp3",
+          "medium": "./Groove Essentials 2 Audio/chart/nh_98_basic_9.mp3",
           "song with counting": "./Groove Essentials 2 Audio/chart/nh_98_song_with_counting.mp3"
         }
       },
       "99": {
         "number": 99,
         "grooves": {
-          "A normal": {
+          "A medium": {
             "number": 99,
             "variation": "A",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove99_A.mp3"
           },
-          "B normal": {
+          "B medium": {
             "number": 99,
             "variation": "B",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove99_B.mp3"
           },
-          "main normal": {
+          "main medium": {
             "number": 99,
             "variation": "main",
-            "speed": "normal",
+            "speed": "medium",
             "path": "./Groove Essentials 2 Audio/groove/groove99_main.mp3"
           }
         },
         "name": "intermediate 9",
         "charts": {
-          "normal": "./Groove Essentials 2 Audio/chart/ni_99_intermediate_9.mp3",
+          "medium": "./Groove Essentials 2 Audio/chart/ni_99_intermediate_9.mp3",
           "slowly with counting": "./Groove Essentials 2 Audio/chart/ni_99_slowly_with_counting.mp3"
         }
       }
